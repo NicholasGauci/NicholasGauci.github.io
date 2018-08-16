@@ -1,0 +1,83 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.pixeldestroyer.com" resolutions="1x" timestamp="1534382112001">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="community.css" crc="3806922698" ref="community"/>
+    <file name="index.css" crc="429887638" ref="index"/>
+    <file name="q-a.css" crc="3899237885" ref="q-a"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:community:q-a"/>
+    <file name="museutils.js" crc="3803043152" ref="index:community:q-a"/>
+    <file name="whatinput.js" crc="86476730" ref="index:community:q-a"/>
+    <file name="museconfig.js" crc="380897831" ref="index:community:q-a"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:community:q-a"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:community:q-a"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:community:q-a"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:community:q-a"/>
+    <file name="require.js" crc="4157109226" ref="index:community:q-a"/>
+  </folder>
+  <folder name="images">
+    <file name="screen shot 2018-06-28 at 92027 pm.jpg" crc="161014759" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2018-08-15 at 21131 pm.jpg" crc="407144296" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="screen shot 2018-08-15 at 45811 pm.jpg" crc="4044621456" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2018-08-15 at 45848 pm.jpg" crc="514948843" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2018-08-15 at 45904 pm.jpg" crc="221878820" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2018-08-15 at 45918 pm.jpg" crc="3902860978" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2018-08-15 at 21131 pm-crop-u913.jpg" crc="4286512526" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2018-08-15 at 45904 pm-crop-u1075.jpg" crc="417714296" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2018-08-15 at 45811 pm-crop-u1035.jpg" crc="115449896" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2018-08-15 at 45918 pm-crop-u1095.jpg" crc="3972960797" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2018-08-15 at 45848 pm-crop-u1055.jpg" crc="220953972" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="split official logo.jpg" crc="122129034" ref="index:community:q-a">
+      <caption webpage="index" alt=""/>
+      <caption webpage="community" alt=""/>
+      <caption webpage="q-a" alt=""/>
+    </file>
+    <file name="u266-5.png" crc="288443403" ref="index"/>
+    <file name="instagram.jpg" crc="431398422" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="snapchat.jpg" crc="363945109" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook .png" crc="324050520" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter.jpg" crc="3849694188" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u380-4.png" crc="160991270" ref="community"/>
+    <file name="u542-4.png" crc="125924674" ref="q-a"/>
+  </folder>
+  <file name="index.html" crc="4254504632" seo="true" mt="1534381901858" redirect="true"/>
+  <file name="community.html" crc="3988667280" seo="true" mt="1534381170892" redirect="true"/>
+  <file name="q-a.html" crc="4038567837" seo="true" mt="1534381170894" redirect="true"/>
+</manifest>
